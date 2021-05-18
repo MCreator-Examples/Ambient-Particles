@@ -1,24 +1,26 @@
-## AMBIENT PARTICLES
+# AMBIENT PARTICLES
 Project files for the [MCreator](https://mcreator.net/) example and tutorial. 
+## OVERVIEW
+Download for MCreator 2021.1 / Minecraft Forge 1.16.5
 
 ### LICENCE
 - Open-Source / optional credits
 
-## DOWNLOADS
-### DOWNLOAD 1.0.0 / 2021.1
+### CREDITS
 Textures have been made by NorthWestTrees Gaming.    
 Procedures have been built by NorthWestTrees Gaming.
 
-#### CONTENTS
+### CONTENTS
 * MCreator Workspace
 * MCreator Procedures
 * Particle Textures
 
-#### DOWNLOAD
-* [Project Files - 1.0.0](https://github.com/MCreator-Examples/ambient-particles/files/6474408/Ambient_Particles_Files.zip)
+## LATEST DOWNLOAD
+| [![Download](https://i.imgur.com/Xcxx2Gr.png)](https://github.com/MCreator-Examples/ambient-particles/files/6474408/Ambient_Particles_Files.zip) | Download for 1.0.0 |
+| --- | --- |
 
-## YOUTUBE TUTORIALS
-* [MCreator 2021.1](https://youtu.be/aq2Y32VQX9I) / Published on 2021-05-14
+## TUTORIALS
+* [YouTube](https://youtu.be/aq2Y32VQX9I) - Published on 2021-05-14
 
 ## GALLERY
 ![Drivable Cars](https://i.imgur.com/1jULA6B.png)
